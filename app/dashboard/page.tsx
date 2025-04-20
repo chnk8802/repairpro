@@ -13,7 +13,6 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ui/sidebar"
-import { Table } from "@/components/ui/table"
 
 export default function Page() {
   return (
